@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+
+/.idea
+/2021_2_Datastructure_ITM.iml
