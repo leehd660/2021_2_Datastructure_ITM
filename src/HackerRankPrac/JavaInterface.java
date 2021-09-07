@@ -1,3 +1,5 @@
+package HackerRankPrac;
+
 import java.util.Scanner;
 
 public abstract class JavaInterface{
